@@ -18,7 +18,7 @@ function App() {
         sidebar ? "grid-cols-[0%_100%]" : "grid-cols-[20%_80%]"
       }`}
     >
-      <div className="bg-black h-screen">1</div>
+      <div className="bg-black text-gray-50 h-screen">xxxxxxxxxxxxxxxxx</div>
       <div className="bg-gray-500 h-screen flex">
         <span
           className=" px-2 self-center cursor-pointer text-4xl hover:text-red-700"
